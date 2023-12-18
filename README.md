@@ -16,9 +16,7 @@ Feel free to connect with me on:
 - <a href="https://github.com/JuanGr95" target="_blank" rel="noreferrer"><img src="Icons/github.svg" alt="GitHub" width="40" height="40"/></a>
 
 ### 💼 Where I'm currently working:
-- I'm honing my skills in frontend development and diving deep into game development.
-
-I’m currently learning **Game Development with Unity and C#**
+- I’m currently learning **Game Development with Unity and C#**
 
 ### Languages and Tools:
 <p align="left">
@@ -33,3 +31,10 @@ I’m currently learning **Game Development with Unity and C#**
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="Icons/sass.svg" alt="Sass" width="50" height="50"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="Icons/unity.svg" alt="Unity" width="50" height="50"/></a>
 </p>
+
+### 🎮 Fun fact:
+- When I'm not coding, I'm probably gaming or brainstorming my next game idea!
+
+---
+
+Thank you for visiting my profile! I'm always looking to collaborate on interesting projects and learn from the community. Let's code something amazing together!
