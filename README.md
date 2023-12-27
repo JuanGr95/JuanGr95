@@ -1,6 +1,10 @@
-## Hi there 👋, I'm Juan Grosso!
+<h2 align="center">Hi 👋, I'm Juan</h2>
+<h3 align="center">A passionate Frontend Developer from Cádiz, Spain.</h3>
 
-Welcome to my GitHub profile! I'm Juan, a frontend developer with a year of experience, currently expanding my horizons into the realm of game development with Unity and C#. I'm a technology enthusiast who's always eager to learn and explore new tools and frameworks.
+Welcome to my GitHub profile! I have a year of experience working as Frontend Dev, currently expanding my horizons into the realm of game development with Unity and C#. I'm a technology enthusiast who's always eager to learn and explore new tools and frameworks.
+
+### 💼 I'm currently working on:
+- I’m currently attending a master's program in **Game Development with Unity and C#**
 
 ### 🌱 What I'm currently learning:
 - Master's in Game Development with Unity and C#
@@ -11,12 +15,11 @@ Welcome to my GitHub profile! I'm Juan, a frontend developer with a year of expe
 And more on the horizon!
 
 ### 📫 How to reach me:
-Feel free to connect with me on:
 
-- <a href="https://github.com/JuanGr95" target="_blank" rel="noreferrer"><img src="Icons/github.svg" alt="GitHub" width="40" height="40"/></a>
-
-### 💼 Where I'm currently working:
-- I’m currently learning **Game Development with Unity and C#**
+<p align="left">
+  <a href="https://github.com/JuanGr95" target="_blank" rel="noreferrer"><img align="center" src="Icons/github.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="mailto:juangrossosicre@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="Icons/gmail.svg" alt="juangrossosicre@gmail.com" width="40" height="40"/></a>
+</p>
 
 ### Languages and Tools:
 <p align="left">
